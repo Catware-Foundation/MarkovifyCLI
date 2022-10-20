@@ -1,3 +1,5 @@
+Внимание! Данный инструмент устарел и вообще является говно-поделкой. Лучше попробуйте [BAZMAN](https://github.com/Catware-Foundation/BAZMAN).
+
 # MarkovifyCLI
 Если говорить проще - это интерфейс для [Markovify](https://github.com/jsvine/markovify).
 
